@@ -1,1 +1,2 @@
-# Hypnotic-Ball
+# synchronousBallMovement
+Ball moving synchronously
